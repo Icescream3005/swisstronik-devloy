@@ -1,2 +1,0 @@
-# swisstronik-devloy
-swisstronik devloy
